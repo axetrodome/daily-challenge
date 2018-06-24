@@ -1,8 +1,12 @@
 <?php
 
-function challenge($str) {
+/*
+Challenge
+*/
 
-	return $str;
+function challenge($num)
+{
+
+	return $num;
 }
-
-echo challenge('New Challenge');
+echo challenge($num);
